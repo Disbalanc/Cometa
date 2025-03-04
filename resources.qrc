@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/DataDisplay/Map/MapView.qml</file>
+        <file>ui/DataDisplay/Map/resources/Marker.qml</file>
+        <file>ui/DataDisplay/Map/resources/location.png</file>
+        <file>ui/DataDisplay/Map/resources/arrow.png</file>
+        <file>ui/DataDisplay/Map/resources/MapPolyline.qml</file>
+        <file>ui/DataDisplay/Map/map/MapComponent.qml</file>
+        <file>ui/DataDisplay/Map/map/MapSliders.qml</file>
+        <file>ui/DataDisplay/Map/forms/LoadFlightDialog.qml</file>
+        <file>ui/DataDisplay/Map/ReportMap.qml</file>
+	<file>data/Resources/upkbLogo.png</file>
+    </qresource>
+</RCC>
